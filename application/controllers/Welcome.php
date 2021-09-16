@@ -15,7 +15,7 @@ class Welcome extends CI_Controller {
 		$sistema = info_header_footer();
 
 		$data = array(
-			'titulo' => 'Seja muito bem vindo(a) á ' . $sistema->sistema_nome_fantasia,
+			'titulo' =>  $sistema->sistema_nome_fantasia,
 			'produtos_destaques' => $this->loja_model->get_produto_destaque($sistema->sistema_produtos_destaques),
 			'produtos_banner'   => $this->loja_model->get_produto_banner($sistema->sistema_produtos_destaques),
 			//'produtos_destaques' => $this->produtos_model->get_all(),
