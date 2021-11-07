@@ -240,7 +240,7 @@
 
                   <p class="description color-text-a">
 
-                  <?php echo $produto->produto_descricao; ?>
+                  <?php echo str_replace('º', '</br>&nbsp;<i  class="fa fa-check-square text-success" aria-hidden="true">&nbsp;</i>', $produto->produto_descricao); ?>
 
                   </p>
 
@@ -248,49 +248,7 @@
 
                 </div>
 
-                <!--
-
-                <div class="row section-t3">
-
-                  <div class="col-sm-12">
-
-                    <div class="title-box-d">
-
-                      <h3 class="title-d">Comodidades</h3>
-
-                    </div>
-
-                  </div>
-
-                </div>
-
-                <div class="amenities-list color-text-a">
-
-                  <ul class="list-a no-margin">
-
-                    <li>Balcony</li>
-
-                    <li>Outdoor Kitchen</li>
-
-                    <li>Cable Tv</li>
-
-                    <li>Deck</li>
-
-                    <li>Tennis Courts</li>
-
-                    <li>Internet</li>
-
-                    <li>Parking</li>
-
-                    <li>Sun Room</li>
-
-                    <li>Concrete Flooring</li>
-
-                  </ul>
-
-                </div>
-
-              -->
+                
 
               </div>
 
@@ -307,10 +265,6 @@
                 <a class="nav-link active" id="pills-video-tab" data-toggle="pill" href="#pills-video" role="tab" aria-controls="pills-video" aria-selected="true">Video</a>
 
               </li>
-
-
-
-
 
             </ul>
 
