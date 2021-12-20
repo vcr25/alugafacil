@@ -520,18 +520,7 @@ class Produto extends CI_Controller
 
                
 
-
-
-
-
-
-
                 redirect('restrita/produto');
-
-
-
-                   
-
 
 
                 }else{
