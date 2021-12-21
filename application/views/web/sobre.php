@@ -80,7 +80,7 @@
 
                 <span></span>
 
-                <br> Desde 2017
+                <br>
 
               </h3>
 
@@ -126,21 +126,21 @@
 
                 <p class="color-text-a">
 
-                  Site criado para facilitar a vida de quem está tentando vender ou alugar seu imóvel.
+                Prático para todo mundo, para quem quer alugar, vender ou comprar.
+ 
+                Alugue rápido, sem fiador ou depósito caução. Agende visitas online, feche negócio direto com o proprietário.
+                Transparência, sem letras miúdas.
+                Saiba de cara todos os custos envolvidos do seu novo lar, seja comprando ou alugando.
 
-                  Na aluga fácil Ubatuba você poderá ver quem está vendendo ou alugando.
+                Encontre um imóvel com a sua cara, fotos profissionais, visite apenas o que interessa, sem custos.
 
-                  As melhores residências nos melhores bairros da cidade de Ubatuba.
-
-                  Se precisa mudar de residência ou comprar uma casa nova na cidade, este é o melhor lugar para encontrar um novo lar.
 
                 </p>
 
                 <p class="color-text-a">
 
-                  Temos o intuito de tentar transformar esse site no melhor site da cidade de Ubatuba para aluguéis e vendas de residências.
-
-                  Onde pessoas de todo o país que queira se mudar para cá possa achar o melhor lugar para ficar.
+                Durante muito tempo, buscar um imóvel pra alugar ou comprar significava travar batalhas épicas contra a burocracia. Mas isso já é coisa do passado. Hoje em dia, morar em um imóvel sem fiador de aluguel ou depósito caução, por exemplo, é uma realidade que cabe na palma da mão.
+                Pelo smartphone ou no computador, você procura o seu próximo apê ou casa e agenda uma visita. Se gostar do imóvel, basta negociar com o proprietário, e assim consegue tranquilamente alugar sem fiador.
 
                 </p>
 
