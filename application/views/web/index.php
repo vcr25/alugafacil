@@ -178,9 +178,7 @@
 
                 <p class="content-c">
 
-                  Encontre casas para alugar em definitivo, para temporadas e finais de semanas,
-
-                  tudo em um só lugar.
+                 Residencial, comercial e por temporada.
 
                 </p>
 
@@ -224,7 +222,7 @@
 
                 <p class="content-c">
 
-                Aqui você encontrará os melhores imóveis da cidade de Ubatuba com preços excelentes.
+               Imóveis com os melhores prelços de Ubatuba
 
                 </p>
 
@@ -577,7 +575,7 @@
               <div class="card-img-d">
 
                 <img src="<?php echo base_url('public/imobi/img/prefeitura-ubatuba.jpeg')?>" alt="" class="img-d img-fluid">
-
+               
               </div>
 
               <div class="card-overlay card-overlay-hover">
@@ -588,7 +586,7 @@
 
                     <h3 class="title-d">
 
-                      <a href="https://www.ubatuba.sp.gov.br/" target="blank" class="link-two">Visite o site</a>
+                      <a href="https://www.ubatuba.sp.gov.br/" target="blank" >Visite o site</a>
 
                     </h3>
 
@@ -634,7 +632,7 @@
 
                     <h3 class="title-d">
 
-                      <a href="https://qualipraia.cetesb.sp.gov.br/qualidade-da-praia/ubatuba.phtml" target="blank" class="link-two">Visite o site</a>
+                      <a href="https://qualipraia.cetesb.sp.gov.br/qualidade-da-praia/ubatuba.phtml" target="blank" >Visite o site</a>
 
                     </h3>
 
@@ -680,7 +678,7 @@
 
                     <h3 class="title-d">
 
-                      <a href="https://fundart.com.br/" target="blank" class="link-two">Visite o site</a>
+                      <a href="https://fundart.com.br/" target="blank" >Visite o site</a>
 
                     </h3>
 
@@ -724,7 +722,7 @@
 
                     <h3 class="title-d">
 
-                      <a href="https://comturubatuba.com.br/" target="blank" class="link-two">Visite
+                      <a href="https://comturubatuba.com.br/" target="blank" >Visite
 
                          o site </a>
 

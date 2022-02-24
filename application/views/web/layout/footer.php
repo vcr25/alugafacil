@@ -20,7 +20,7 @@
 
               <p class="w-text-a color-text-a">
 
-               Aqui você encontra os melhores imóveis para alugar ou comprar em Ubatuba.
+               Aqui você encontra os melhores imóveis para alugar ou comprar.
 
               </p>
 
@@ -36,12 +36,12 @@
 
                 </li>
 
-                <li class="color-a">
+               <!--  <li class="color-a">
 
                   <span class="color-text-a">Telefone:  <?php echo $sistema->sistema_telefone_fixo; ?> .</span>
 
                 </li>
-
+ -->
                 <li class="color-a">
 
                   <span class="color-text-a">Email: <?php echo $sistema->sistema_email ?> .</span>

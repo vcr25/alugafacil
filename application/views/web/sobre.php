@@ -116,31 +116,21 @@
 
                   <h3 class="title-d">O
 
-                    <span class="color-d">lugar ideal</span> para você
-
-                    <br> encontrar a sua casa.
+                    <span class="color-d">Aqui você encontra</span> seu imóvel.
+                        Seja para alugar ou comprar. A sua busca termina aqui.
+                    <br> 
 
                   </h3>
 
                 </div>
 
-                <p class="color-text-a">
-
-                Prático para todo mundo, para quem quer alugar, vender ou comprar.
- 
-                Alugue rápido, sem fiador ou depósito caução. Agende visitas online, feche negócio direto com o proprietário.
-                Transparência, sem letras miúdas.
-                Saiba de cara todos os custos envolvidos do seu novo lar, seja comprando ou alugando.
-
-                Encontre um imóvel com a sua cara, fotos profissionais, visite apenas o que interessa, sem custos.
-
-
-                </p>
+               
 
                 <p class="color-text-a">
 
-                Durante muito tempo, buscar um imóvel pra alugar ou comprar significava travar batalhas épicas contra a burocracia. Mas isso já é coisa do passado. Hoje em dia, morar em um imóvel sem fiador de aluguel ou depósito caução, por exemplo, é uma realidade que cabe na palma da mão.
-                Pelo smartphone ou no computador, você procura o seu próximo apê ou casa e agenda uma visita. Se gostar do imóvel, basta negociar com o proprietário, e assim consegue tranquilamente alugar sem fiador.
+                Durante muito tempo, buscar um imóvel pra alugar ou comprar era uma verdadeira batalha. Mas isso acaba aqui. Hoje pelo smartphone ou computador você escolhe seu imovél e marca uma visita de maneira simples e rápida, e se te 
+                agradar basta negociar diretamente com o proprietário.
+                Simples e fácil para quem deseja alugar, vender ou comprar um imóvel em Ubatuba.Encontre o imóvel da sua preferencia com as melhores fotos e descrições.
 
                 </p>
 
